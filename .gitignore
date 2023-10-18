@@ -1,0 +1,4 @@
+# AWS files
+**/.aws/
+**/aws-credentials.properties
+**/awsconfiguration.json

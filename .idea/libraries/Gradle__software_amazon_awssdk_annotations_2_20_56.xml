@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk:annotations:2.20.56" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="software.amazon.awssdk" artifactId="annotations" version="2.20.56" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/annotations/2.20.56/363b4f36c568fbac9011e88fa0621de7ed8eddb0/annotations-2.20.56.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/annotations/2.20.56/64fa76066f3d45415604736f6d48108fe7792f05/annotations-2.20.56-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

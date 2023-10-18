@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk:crt-core:2.20.56" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="software.amazon.awssdk" artifactId="crt-core" version="2.20.56" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/crt-core/2.20.56/8986b9046e8d83bb219a72a27cde7eee86ae845a/crt-core-2.20.56.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/crt-core/2.20.56/5323822f36f60e437c92a3379d0d1acca5be812/crt-core-2.20.56-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
